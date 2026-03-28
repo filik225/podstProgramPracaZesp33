@@ -20,7 +20,7 @@ namespace BibliotekaKonsolowa
     class Program
     {
         static List<Book> library = new List<Book>();
-
+        //test
         static void Main(string[] args)
         {
             // Przykładowe dane na start
